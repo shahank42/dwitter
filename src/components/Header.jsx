@@ -10,11 +10,8 @@ function Header() {
           </div>
 
           <div className="hidden md:flex space-x-6">
-            <a href="#">
-              <div className="text-blue-600">About</div>
-              <div className="text-blue-600">Profile</div>
-
-            </a>
+            <a href="#" className="hover:text-orange-600">About</a>
+            <a href="#" className="hover:text-orange-600">Profile</a>
           </div>
         </div>
       </nav>
