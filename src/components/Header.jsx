@@ -11,7 +11,9 @@ function Header() {
 
           <div className="hidden md:flex space-x-6">
             <a href="#">
-              <div className="text-red">About</div>
+              <div className="text-blue-600">About</div>
+              <div className="text-blue-600">Profile</div>
+
             </a>
           </div>
         </div>
